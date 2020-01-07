@@ -1,4 +1,4 @@
-##Ayli: Starseeker
+## Ayli: Starseeker
 Date: Winter 2019
 Contributor: Eva Yan
 Goal: Learn/solidify knowledge of array lists, object management, 2D physics, and camera movement. To create a whimsical atmosphere for a 2D vertical platformer.
